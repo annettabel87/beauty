@@ -1,0 +1,2 @@
+(()=>{"use strict";const e=document.querySelector(".menu-btn"),t=document.querySelector(".navigation");e.addEventListener("click",(()=>{t.classList.toggle("active")}));const n=document.querySelector(".main-navigator__menu-btn"),c=document.querySelector(".main-navigation__container");n.addEventListener("click",(()=>{c.classList.toggle("active")}))})();
+//# sourceMappingURL=main.js.map

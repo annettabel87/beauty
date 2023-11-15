@@ -1,4 +1,4 @@
-# beauty
+# beauty тестовое с вёрсткой
 
 ### deploy: https://beautychair.netlify.app/
 
